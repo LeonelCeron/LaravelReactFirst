@@ -17,7 +17,7 @@ const CreateProduct = () =>{
     }
     return (
         <div>
-            <h3>Crear Producto</h3>
+            <h3>Crear Producto EditadoV1</h3>
             <form onSubmit={store}>
                 <div>
                     <label className="mb-3">Description</label>

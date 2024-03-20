@@ -20,7 +20,7 @@ const CreateProduct = () =>{
             <h3>Crear Producto EditadoV1</h3>
             <form onSubmit={store}>
                 <div>
-                    <label className="mb-3">Description</label>
+                    <label className="mb-3">Description xd</label>
                     <input 
                         value={description}
                         onChange={ (e)=>setDescription(e.target.value)}
